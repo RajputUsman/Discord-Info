@@ -9,3 +9,6 @@ And slide it, All done.
 **What to do if I wannna receive DM/Messages from specific members?**
 
 If you want to have specific members to send you messages you can add them as friend and then they will be able to send you DM/Messages anytime. And if then you don't want them to send you can unfriend him/her.
+
+You can change your status
+![image](https://user-images.githubusercontent.com/65516140/109590326-98121a00-7b2d-11eb-89de-b7551d902eba.png)
