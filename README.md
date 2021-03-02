@@ -1,7 +1,9 @@
 # Discord
 
 What to do if I dont wanna receive DM/Messages from Discord members?
+
 ![image](https://user-images.githubusercontent.com/65516140/109589701-88de9c80-7b2c-11eb-8862-5d810d110122.png)
+
 And slide it, All done.
 
 What to do if I wannna receive DM/Messages from specific members?
