@@ -15,4 +15,5 @@ If you want to have specific members to send you messages you can add them as fr
 ![image](https://user-images.githubusercontent.com/65516140/109590326-98121a00-7b2d-11eb-89de-b7551d902eba.png)
 
 **Some useful links related to Discord platform**
+
 [Resource to Discord Markdown Text](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)
