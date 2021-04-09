@@ -16,7 +16,7 @@ If you want to have specific members to send you messages you can add them as fr
 
 **Why I can't see offline members of community on Discord**
 
-On 1000 members because Discord would not show offline members of the community so members have ease of scrolling.
+On 1000 members Discord would not show offline members of the community due to bandwidth and hosting limitations on Discord’s end.
 
 **Some useful links related to Discord platform**
 
