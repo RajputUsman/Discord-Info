@@ -21,3 +21,4 @@ On 1000 members Discord would not show offline members of the community due to b
 **Some useful links related to Discord platform**
 
 [Resource to Discord Markdown Text](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)
+[Setting Up Your Account for Privacy & Safety](https://discord.com/safety/360043857751-Four-steps-to-a-super-safe-account)
